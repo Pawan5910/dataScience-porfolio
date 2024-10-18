@@ -1,7 +1,11 @@
 # DataScience-porfolio
 This repository consits of data science projects. As a data science enthusiast I like to enhance my skills by exploring various datasets and deriving some useful insights out of it. These projects are represented in the form of iPython Notebooks.
 # Content
-## [Handwritten Character Recognition- Image Processing](https://github.com/Pawan5910/dataScience-porfolio/tree/main/Bitcoin%20price%20prediction%20and%20analysis): 
+## [Handwritten Character Recognition- Image Processing](HandwrittenCharacterRecognition): 
+* Data & Preprocessing: Collected and preprocessed handwritten digit images using OpenCV, performing tasks like grayscale conversion, noise reduction, and normalization. Also implemented data augmentation techniques (rotation, scaling) to improve model generalization across various handwriting styles.
+* Model Development & Accuracy: Built a Convolutional Neural Network (CNN) using TensorFlow to classify handwritten digits. The model, trained with optimized hyperparameters and an Adam optimizer, achieved a 97% accuracy, highlighting its effectiveness in recognizing digits from image data.
+* Post-Processing & Skills: Automated the conversion of recognized digits into editable documents using Python libraries, integrating TensorFlow, NumPy, Pandas, 
+and OpenCV. Demonstrated skills in deep learning, image processing, and end-to-end automation of digit recognition to document creation.
 
 ## [Cryptocurrency price forecasting and Prediction using ARIMA, SARIMAX and LSTM - Dissertion project](https://github.com/Pawan5910/dataScience-porfolio/tree/main/Bitcoin%20price%20prediction%20and%20analysis): 
 * This project compares the Auto Regressive Integrated Moving Average (ARIMA), Seasonal Auto Regressive Integrated Moving Average eXogenous SARIMAX, and the Long Short-Term Memory (LSTM) models, to find the best model for the Cryptocurrency Price forecasting and prediction. 
