@@ -1,6 +1,8 @@
 # DataScience-porfolio
 This repository consits of data science projects. As a data science enthusiast I like to enhance my skills by exploring various datasets and deriving some useful insights out of it. These projects are represented in the form of iPython Notebooks.
 # Content
+## [Handwritten Character Recognition- Image Processing](https://github.com/Pawan5910/dataScience-porfolio/tree/main/Bitcoin%20price%20prediction%20and%20analysis): 
+
 ## [Cryptocurrency price forecasting and Prediction using ARIMA, SARIMAX and LSTM - Dissertion project](https://github.com/Pawan5910/dataScience-porfolio/tree/main/Bitcoin%20price%20prediction%20and%20analysis): 
 * This project compares the Auto Regressive Integrated Moving Average (ARIMA), Seasonal Auto Regressive Integrated Moving Average eXogenous SARIMAX, and the Long Short-Term Memory (LSTM) models, to find the best model for the Cryptocurrency Price forecasting and prediction. 
 * The cryptocurrency used in this project is Bitcoin, and all the trading data is collected for the same. 
